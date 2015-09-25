@@ -1,0 +1,17 @@
+<transformers>
+	<transformer id="30231" name="Larisa K" vol="150" lat="39.614417" lng="22.402468"/>
+	<transformer id="30232" name="Larisa K" vol="150" lat="39.631473" lng="22.384958"/>
+	<transformer id="34431" name="Trikala K" vol="150" lat="39.554221" lng="21.776175"/>
+	<transformer id="35031" name="Limni Plastira" vol="150" lat="39.312519" lng="21.783772"/>
+	<transformer id="30011" name="Larisa K" vol="400" lat="39.621293" lng="22.450018"/>
+	<transformer id="34011" name="Trikala K" vol="400" lat="39.575726" lng="21.777806"/>
+	<transformer id="35187" name="Limni Plastira G1" vol="15.75" lat="39.31491" lng="21.714077"/>
+	<transformer id="35287" name="Limni Plastira G2" vol="15.75" lat="39.287811" lng="21.666555"/>
+	<transformer id="35387" name="Limni Plastira G3" vol="15.75" lat="39.274524" lng="21.73296"/>
+	<transformer id="30239" name="Larisa T1" vol="30" lat="39.635439" lng="22.401438"/>
+	<transformer id="30230" name="Larisa T2" vol="30" lat="39.612962" lng="22.429762"/>
+	<transformer id="30235" name="Larisa T3" vol="30" lat="39.617061" lng="22.366076"/>
+	<transformer id="30234" name="Larisa T4" vol="30" lat="39.642049" lng="22.356634"/>
+	<transformer id="34039" name="Trikala T1" vol="30" lat="39.541316" lng="21.732402"/>
+	<transformer id="34030" name="Trikala T2" vol="30" lat="39.527679" lng="21.766391"/>
+</transformers>

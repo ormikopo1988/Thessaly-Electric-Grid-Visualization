@@ -1,0 +1,79 @@
+<markers>
+	<marker lat="39.892485" lng="22.171597" name="Elassona" id="206" vol="150" type="1"/>
+	<marker lat="39.71204" lng="22.761648" name="Agia Larisas" id="303" vol="150" type="1"/>
+	<marker lat="39.650376" lng="22.377062" name="Larisa 3" id="306" vol="150" type="1"/>
+	<marker lat="39.666103" lng="22.407789" name="Larisa 2" id="307" vol="150" type="1"/>
+	<marker lat="39.662932" lng="22.436457" name="Larisa 1" id="308" vol="150" type="1"/>
+	<marker lat="39.369474" lng="22.9106" name="Volos 1" id="311" vol="150" type="1"/>
+	<marker lat="39.38334" lng="22.920384" name="Volos VP" id="313" vol="150" type="1"/>
+	<marker lat="39.388382" lng="22.943473" name="Volos 2" id="315" vol="150" type="1"/>
+	<marker lat="39.197466" lng="23.26726" name="Laukos" id="317" vol="150" type="1"/>
+	<marker lat="39.46552" lng="22.73268" name="Stefanovikeio" id="322" vol="150" type="1"/>
+	<marker lat="39.129528" lng="22.329698" name="Domokos" id="323" vol="150" type="1"/>
+	<marker lat="39.294056" lng="22.407854" name="Farsala" id="324" vol="150" type="1"/>
+	<marker lat="39.189026" lng="22.74255" name="Almuros" id="327" vol="150" type="1"/>
+	<marker lat="39.72679" lng="21.648854" name="Kalampaka" id="353" vol="150" type="1"/>
+	<marker lat="39.579232" lng="21.742616" name="Trikala 2" id="355" vol="150" type="1"/>
+	<marker lat="39.384364" lng="21.941487" name="Karditsa" id="361" vol="150" type="1"/>
+	<marker lat="39.649187" lng="22.457399" name="Larisa K" id="3021" vol="150" type="1"/>
+	<marker lat="39.634646" lng="22.459631" name="Larisa K" id="3022" vol="150" type="1"/>
+	<marker lat="39.902889" lng="22.18945" name="Elassona" id="20535" vol="150" type="1"/>
+	<marker lat="39.890641" lng="22.208676" name="Elassona" id="20536" vol="150" type="1"/>
+	<marker lat="39.882738" lng="22.181468" name="Elassona" id="20631" vol="150" type="1"/>
+	<marker lat="39.621293" lng="22.450018" name="Larisa K" id="30011" vol="400" type="1"/>
+	<marker lat="39.612962" lng="22.429762" name="Larisa T2" id="30230" vol="30" type="1"/> 
+	<marker lat="39.614417" lng="22.402468" name="Larisa K" id="30231" vol="150" type="1"/>
+	<marker lat="39.631473" lng="22.384958" name="Larisa K" id="30232" vol="150" type="1"/>
+	<marker lat="39.642049" lng="22.356634" name="Larisa T4" id="30234" vol="30" type="1"/> 
+	<marker lat="39.617061" lng="22.366076" name="Larisa T3" id="30235" vol="30" type="1"/>
+	<marker lat="39.635439" lng="22.401438" name="Larisa T1" id="30239" vol="30" type="1"/> 
+	<marker lat="39.724254" lng="22.752206" name="Agia Larisas" id="30331" vol="150" type="1"/> 
+	<marker lat="39.630812" lng="22.418432" name="Larisa 4" id="30431" vol="150" type="1"/>
+	<marker lat="39.64271" lng="22.429419" name="Larisa 4" id="30435" vol="150" type="1"/>
+	<marker lat="39.652755" lng="22.416029" name="Larisa 4" id="30436" vol="150" type="1"/>
+	<marker lat="39.646147" lng="22.404699" name="Larisa 3" id="30631" vol="150" type="1"/>
+	<marker lat="39.640727" lng="22.416544" name="Larisa 2" id="30731" vol="150" type="1"/>
+	<marker lat="39.609127" lng="22.403669" name="Larisa 1" id="30831" vol="150" type="1"/>
+	<marker lat="39.369142" lng="22.939353" name="Volos 1" id="31131" vol="150" type="1"/>
+	<marker lat="39.374317" lng="22.973342" name="Volos T1" id="31135" vol="150" type="1"/>
+	<marker lat="39.370137" lng="22.879515" name="Biozwnh" id="31331" vol="150" type="1"/>
+	<marker lat="39.370718" lng="22.854897" name="Biozwnh T1" id="31335" vol="150" type="1"/>
+	<marker lat="39.373256" lng="22.868972" name="Biozwnh T2" id="31336" vol="150" type="1"/>
+	<marker lat="39.356699" lng="22.925498" name="PB2" id="31435" vol="150" type="1"/>
+	<marker lat="39.357728" lng="22.967505" name="Volos 2" id="31531" vol="150" type="1"/>
+	<marker lat="39.340405" lng="23.013411" name="Agria" id="31631" vol="150" type="1"/>
+	<marker lat="39.177466" lng="23.24726" name="Laukos" id="31731" vol="150" type="1"/>
+	<marker lat="39.720524" lng="22.544875" name="Kaloxori Tap" id="31834" vol="150" type="1"/>
+	<marker lat="39.470456" lng="22.74534" name="Stefanovikeio" id="32231" vol="150" type="1"/>
+	<marker lat="39.462638" lng="22.752936" name="Stefanovikeio T1" id="32235" vol="150" type="1"/>
+	<marker lat="39.458131" lng="22.73886" name="Stefanovikeio T2" id="32236" vol="150" type="1"/>
+	<marker lat="39.128962" lng="22.298505" name="Domokos" id="32331" vol="150" type="1"/>
+	<marker lat="39.295816" lng="22.384508" name="Farsala" id="32431" vol="150" type="1"/>
+	<marker lat="39.627507" lng="22.467012" name="Larisa P1" id="32535" vol="150" type="1"/>
+	<marker lat="39.606878" lng="22.466154" name="Larisa P4" id="32634" vol="150" type="1"/>
+	<marker lat="39.191454" lng="22.759759" name="Almuros" id="32731" vol="150" type="1"/>
+	<marker lat="39.182306" lng="22.773492" name="Almuros T1" id="33434" vol="150" type="1"/>
+	<marker lat="39.175719" lng="22.750189" name="Almuros T3" id="33436" vol="150" type="1"/>
+	<marker lat="39.575726" lng="21.777806" name="Trikala K" id="34011" vol="400" type="1"/>
+	<marker lat="39.557795" lng="21.801925" name="Trikala T4" id="34013" vol="400" type="1"/>
+	<marker lat="39.537145" lng="21.803985" name="Trikala T3" id="34014" vol="400" type="1"/>
+	<marker lat="39.527679" lng="21.766391" name="Trikala T2" id="34030" vol="30" type="1"/> 
+	<marker lat="39.541316" lng="21.732402" name="Trikala T1" id="34039" vol="30" type="1"/>
+	<marker lat="39.560574" lng="21.728883" name="Trikala 1" id="34131" vol="150" type="1"/>
+	<marker lat="39.560376" lng="21.753087" name="Trikala" id="34334" vol="150" type="1"/>
+	<marker lat="39.554221" lng="21.776175" name="Trikala K" id="34431" vol="150" type="1"/>
+	<marker lat="39.312519" lng="21.783772" name="Limni Plastira" id="35031" vol="150" type="1"/>
+	<marker lat="39.31491" lng="21.714077" name="Limni Plastira G1" id="35187" vol="15.75" type="2"/>
+	<marker lat="39.287811" lng="21.666555" name="Limni Plastira G2" id="35287" vol="15.75" type="2"/> 	
+	<marker lat="39.274524" lng="21.73296" name="Limni Plastira G3" id="35387" vol="15.75" type="2"/> 
+	<marker lat="39.70679" lng="21.628854" name="Kalampaka" id="35331" vol="150" type="1"/>
+	<marker lat="39.701739" lng="21.613533" name="Kalampaka TAP" id="35635" vol="150" type="1"/>
+	<marker lat="39.705041" lng="21.649754" name="Kalampaka TAP" id="35636" vol="150" type="1"/>
+	<marker lat="39.543764" lng="21.752915" name="Trikala TAP" id="35435" vol="150" type="1"/>
+	<marker lat="39.55356" lng="21.763301" name="Trikala 2" id="35531" vol="150" type="1"/>
+	<marker lat="39.364364" lng="21.921487" name="Karditsa" id="36131" vol="150" type="1"/>
+	<marker lat="39.181508" lng="22.116673" name="Leontari" id="36335" vol="150" type="1"/>
+	<marker lat="39.18989" lng="22.130148" name="Leontari" id="36336" vol="150" type="1"/> 
+	<marker lat="39.176218" lng="22.138045" name="Leontari" id="36431" vol="150" type="1"/>
+	<marker lat="39.201109" lng="22.151393" name="Leontari" id="364" vol="150" type="1"/>
+</markers>

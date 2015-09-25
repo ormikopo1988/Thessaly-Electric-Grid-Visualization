@@ -1,0 +1,42 @@
+<donut-chart data="data2" accessor="accessor2"></donut-chart>
+<div class="controls">
+  <select ng-model="value" ng-change='newValue2(value)'>
+	<option value="">-System Load (MW)-</option>
+	<option>3500 MW</option>
+	<option>3750 MW</option>
+	<option>4000 MW</option>
+	<option>4250 MW</option>
+	<option>4500 MW</option>
+	<option>4750 MW</option>
+	<option>5000 MW</option>
+	<option>5250 MW</option>
+	<option>5500 MW</option>
+	<option>5750 MW</option>
+	<option>6000 MW</option>
+	<option>6250 MW</option>
+	<option>6500 MW</option>
+	<option>6750 MW</option>
+	<option>7000 MW</option>
+	<option>7250 MW</option>
+	<option>7500 MW</option>
+	<option>7750 MW</option>
+	<option>8000 MW</option>
+	<option>8250 MW</option>
+	<option>8500 MW</option>
+	<option>8750 MW</option>
+	<option>9000 MW</option>
+	<option>9250 MW</option>
+	<option>9500 MW</option>
+	<option>9750 MW</option>
+	<option>10000 MW</option>
+	<option>10250 MW</option>
+	<option>10500 MW</option>
+	<option>10750 MW</option>
+	<option>11000 MW</option>
+	<option>11250 MW</option>
+	<option>11500 MW</option>
+  </select><br><br><br><br><br><br><br><br><br><br><br>
+  <div ng-repeat="d in data2 | limitTo:3"">
+	<span style="color: {{d.color}}">{{d.label}}: {{d.value}} MW</span>
+  </div>
+</div>

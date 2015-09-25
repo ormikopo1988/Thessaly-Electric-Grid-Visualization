@@ -1,0 +1,24 @@
+<donut-chart data="data" accessor="accessor"></donut-chart>
+<div class="controls">
+  <select ng-model="value" ng-change='newValue(value)'>
+	<option value="">-System Load(MW)-</option>
+	<option>3500-7500</option>
+	<option>7750</option>
+	<option>8000</option>
+	<option>8250</option>
+	<option>8500</option>
+	<option>8750</option>
+	<option>9000</option>
+	<option>9250-9750</option>
+	<option>10000</option>
+	<option>10250</option>
+	<option>10500</option>
+	<option>10750</option>
+	<option>11000</option>
+	<option>11250</option>
+	<option>11500</option>
+  </select><br><br>
+  <div ng-repeat="d in data">
+	<span style="color: {{d.color}}">{{d.label}}: {{d.value}}</span>
+  </div>
+</div>

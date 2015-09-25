@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+
+
+.chart2 rect {
+  fill: steelblue;
+}
+
+.chart2 text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+</style>
+<link rel="stylesheet" href="style.css">
+<body>
+  <div class="chart"></div>
+  <svg class="chart2"></svg>
+  <span>Hello!</span>
+  <script src="angular.js"></script>
+  <script src="angular-route.js"></script>
+  <script src="d3.js"></script>
+  <script src="app.js"></script>
+  <script src="donut-chart.directive.js"></script>
+  <script>
+  
+	var data = [4, 8, 15, 16, 23, 42];
+  
+	/*var div = document.createElement("div");
+	div.innerHTML = "Hello, world!";
+	document.body.appendChild(div);
+	
+	var body = d3.select("body");
+var div = body.append("div");
+div.html("Hello, world2!");
+
+var section = d3.selectAll("div");
+var div = section.append("div");
+div.html("Hello, world3!");
+
+d3.selectAll("span")
+    .attr("class", "special")
+  .append("div")
+    .html("Hello, world4!");
+	
+	
+	var section = d3.selectAll("span");
+
+section.append("div")
+    .html("First!");
+
+section.append("div")
+    .html("Second.");
+
+	d3.select(".chart")
+	  .selectAll("div")
+	    .data(info)
+	  .enter().append("div")
+	    .style("width", function(d) { return d * 10 + "px"; })
+	    .text(function(d) { return d; });*/
+	var width = 420,
+    barHeight = 20;
+
+var x = d3.scale.linear()
+    .domain([0, d3.max(data)])
+    .range([0, width]);
+
+var chart = d3.select(".chart2")
+    .attr("width", width)
+    .attr("height", barHeight * data.length);
+
+var bar = chart.selectAll("g")
+    .data(data)
+  .enter().append("g")
+    .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+
+bar.append("rect")
+    .attr("width", x)
+    .attr("height", barHeight - 1);
+
+bar.append("text")
+    .attr("x", function(d) { return x(d) - 3; })
+    .attr("y", barHeight / 2)
+    .attr("dy", ".35em")
+    .text(function(d) { return d; });	
+
+  </script>
+</body>
+</html>
